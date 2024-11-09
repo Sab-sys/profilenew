@@ -298,7 +298,7 @@ img {
 }
 
 .home__blob{
-  width: 200px;
+  width: auto;
   fill: var(--first-color);
 }
 
